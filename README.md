@@ -20,7 +20,7 @@ This project was sponsored by the National Library of Medicine grant R01LM009886
 
 ## License
 
-Copyright Weng Lab at Columbia University, 2023.
+Copyright (c) 2023 Weng Lab at Columbia University
 
 Distributed under the terms of the [MIT](https://github.com/bionlplab/medtext/blob/master/LICENSE) license, 
 EvidenceOutcomes is free and open-source.
